@@ -13,4 +13,4 @@ Cut/Skip Scenes:
 Unfortunately I know of no easy way to include cutscenes automatically, so that will have to be done by the user. However, I tried to make the process as easy as possible. The user will create a txt file and enter in the start time and end time for the scenes they wish to skip, one line per skip scene. Once done, use this program to merge the manual cutscene file with the .edl file that was created. The program will convert the times into seconds and add the skip scene flag at the end of each line and then sort by times.
 
 Time Adjust:
-The audio will almost always be off a little from computer to computer. The program has the ability to adjust the start and end times separately from any number of seconds to milliseconds.
+The usage of the .edl file by the computer will almost always be off a little. The program has the ability to adjust the start and end times separately from any number of seconds to milliseconds. The adjustment will effect all start times and/or all end times. This is supposed to fast not tedious.
