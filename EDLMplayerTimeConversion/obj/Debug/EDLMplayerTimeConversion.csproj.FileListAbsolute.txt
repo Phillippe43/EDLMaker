@@ -1,0 +1,12 @@
+U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\bin\Debug\EDLMplayerTimeConversion.exe.manifest
+U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\bin\Debug\EDLMplayerTimeConversion.application
+U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\bin\Debug\EDLMplayerTimeConversion.exe
+U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\bin\Debug\EDLMplayerTimeConversion.pdb
+U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.Form1.resources
+U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.Properties.Resources.resources
+U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.csproj.GenerateResource.Cache
+U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.exe.manifest
+U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.application
+U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.exe
+U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.pdb
+U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.Form2.resources
