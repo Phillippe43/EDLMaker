@@ -10,3 +10,5 @@ U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\obj\Debug\EDLMplay
 U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.exe
 U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.pdb
 U:\Projects\EDLMplayerTimeConversion\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.Form2.resources
+D:\test\EDLMaker\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.exe
+D:\test\EDLMaker\EDLMplayerTimeConversion\obj\Debug\EDLMplayerTimeConversion.pdb
