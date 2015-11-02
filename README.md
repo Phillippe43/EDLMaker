@@ -1,7 +1,9 @@
 # EDLMaker
-Create EDL files for smplayer easily.
 
-What is an EDL file? An EDL file or "Edit Decision List" allows you to automatically skip or mute sections of videos during playback, based on a movie specific EDL configuration file.
+#Create EDL files for smplayer easily.
+
+# What is an EDL file? 
+An EDL file or "Edit Decision List" allows you to automatically skip or mute sections of videos during playback, based on a movie specific EDL configuration file.
 
 
 # What It Does
